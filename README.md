@@ -1,4 +1,4 @@
-# Aplikasi Scanner
+# SWIFTSCAN: Seamlessly Scan, Swiftly Tran
 
 ![SwiftScan](swiftscan.png)
 
